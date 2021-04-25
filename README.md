@@ -16,6 +16,14 @@ Continuous Learning은 널리 알려진 Transfer learning의 상위 개념이라
 
 2. Finetuning
 
+![image](https://user-images.githubusercontent.com/52276191/115985926-fd8ffd80-a5e8-11eb-9412-81f67be3a960.png)
+
+![image](https://user-images.githubusercontent.com/52276191/115985930-fff25780-a5e8-11eb-9ed4-b7995bcc73f6.png)
+
+![image](https://user-images.githubusercontent.com/52276191/115985933-0254b180-a5e9-11eb-9331-6efdd46b4ada.png)
+
+
+
 3. Knowledge Distillation(KD) 
 
 4. Learning Without Forgetting(LWF)

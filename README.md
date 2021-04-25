@@ -11,6 +11,9 @@ Continuous Learning은 널리 알려진 Transfer learning의 상위 개념이라
 
 1. Feature Extraction
 
+![image](https://user-images.githubusercontent.com/52276191/115985911-e7823d00-a5e8-11eb-891f-a9cbb0e6fc47.png)
+
+
 2. Finetuning
 
 3. Knowledge Distillation(KD) 

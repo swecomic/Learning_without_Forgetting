@@ -31,7 +31,7 @@ c. 전체 layer re-train
 
 
 
-**3. Knowledge Distillation(KD) **
+**3. Knowledge Distillation(KD)**
 
 **4. Learning Without Forgetting(LWF)**
 

@@ -15,7 +15,7 @@ Joint Training은 LWF과 유사하지만, original task와 new task를 동시에
 본 실험에서는 편의를 위해 Teacher Network(Pre-trained)로 VGG16 모델을 사용하였고, Student Network는 VGG16보다 얕은 layer와 channel를 가진 모델을 임의로 생성을 하였다. 모델 구조는 model.py에서 확인 가능하다.
 
 **1. Feature Extraction**
-  - Pre-trained 모델의 맨 마지막 classifier layer만 fine-tuning한다. 즉, 기존 모델의 feature만 추출하여 transfer learning을 수행하는것으로, Old-task와 New-task의 데이터가 매우 유사할 경우 사용할 수 있다. (예: 서양인 안면인식 -> 동양인 안면인식)
+  - Pre-trained 모델의 맨 마지막 classifier layer만 fine-tuning한다. 즉, 기존 모델의 feature만 추출하여 transfer learning을 수행하는것으로, original task와 ew task의 데이터가 매우 유사할 경우 사용할 수 있다. (예: 서양인 안면인식 -> 동양인 안면인식)
 
 ![image](https://user-images.githubusercontent.com/52276191/115985911-e7823d00-a5e8-11eb-891f-a9cbb0e6fc47.png)
 

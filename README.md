@@ -16,6 +16,7 @@ Continuous Learning은 널리 알려진 Transfer learning의 상위 개념이라
 
 **2. Finetuning**
   - Pre-trained 모델의 일부 layer를 fine-tuning
+  - 
 a. 앞 layer re-train
 
 ![image](https://user-images.githubusercontent.com/52276191/115985926-fd8ffd80-a5e8-11eb-9412-81f67be3a960.png)

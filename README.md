@@ -38,4 +38,16 @@ c. 전체 layer re-train
 
 **3. Learning Without Forgetting(LWF)**
 
+![image](https://user-images.githubusercontent.com/52276191/116199226-d87ac680-a771-11eb-98ef-95f04461fb87.png)
+
+
+
+## 실험
+
+
+## References
+
+Li, Z., & Hoiem, D. (2017). Learning without forgetting. IEEE transactions on pattern analysis and machine intelligence, 40(12), 2935-2947.
+
+
 
